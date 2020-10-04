@@ -6,7 +6,16 @@
     <description>Recent content in Posts on figueredo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 13 Nov 2018 07:15:57 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 May 2019 17:30:21 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>O início de uma comunidade</title>
+      <link>/posts/o-inicio-de-uma-comunidade/</link>
+      <pubDate>Fri, 24 May 2019 17:30:21 +0000</pubDate>
+      
+      <guid>/posts/o-inicio-de-uma-comunidade/</guid>
+      <description>Um ano de encontros sobre arquitetura de software</description>
+    </item>
+    
     <item>
       <title>Memória, para quê?</title>
       <link>/posts/memoria-para-que/</link>

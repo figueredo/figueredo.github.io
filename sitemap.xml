@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/</loc>
+    <lastmod>2020-09-30T02:31:21-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/o-inicio-de-uma-comunidade/</loc>
+    <lastmod>2020-09-30T02:31:21-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/</loc>
+    <lastmod>2020-09-30T02:31:21-03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/brasil/</loc>
     <lastmod>2020-09-30T02:31:18-03:00</lastmod>
   </url>
@@ -18,22 +33,12 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2020-09-30T02:31:18-03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/memoria/</loc>
     <lastmod>2020-09-30T02:31:18-03:00</lastmod>
   </url>
   
   <url>
     <loc>/posts/memoria-para-que/</loc>
-    <lastmod>2020-09-30T02:31:18-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/</loc>
     <lastmod>2020-09-30T02:31:18-03:00</lastmod>
   </url>
   
