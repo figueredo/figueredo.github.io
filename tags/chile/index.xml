@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chile on figueredo</title>
-    <link>https://figueredo.co/tags/chile/</link>
+    <link>/tags/chile/</link>
     <description>Recent content in Chile on figueredo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 13 Nov 2018 07:15:57 +0000</lastBuildDate><atom:link href="https://figueredo.co/tags/chile/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Nov 2018 07:15:57 +0000</lastBuildDate><atom:link href="/tags/chile/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Memória, para quê?</title>
-      <link>https://figueredo.co/posts/memoria-para-que/</link>
+      <link>/posts/memoria-para-que/</link>
       <pubDate>Tue, 13 Nov 2018 07:15:57 +0000</pubDate>
       
-      <guid>https://figueredo.co/posts/memoria-para-que/</guid>
+      <guid>/posts/memoria-para-que/</guid>
       <description>Você não sabe que dia é hoje, sabe? me perguntou a recepcionista. Era 11 de setembro, o dia em que as ruas do Chile ficam vazias.</description>
     </item>
     

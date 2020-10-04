@@ -86,6 +86,7 @@ body > main {
   margin-bottom: 2rem;
   max-width: 42rem;
   width: 100%;
+  box-sizing: border-box;
 }
 
 body > aside {
@@ -96,6 +97,7 @@ body > aside {
   margin-bottom: 2rem;
   max-width: 42rem;
   width: 100%;
+  box-sizing: border-box;
 }
 
 aside > nav > ul {
@@ -161,11 +163,11 @@ article.post-summary > header > h1 {
 }
 
 article.post-summary > header > small {
-  color: #2d4059;
+  color: #5C5C5C;
 }
 
 article.post-summary > main.home > article > p {
-  color: #2d4059;
+  color: #5C5C5C;
   margin: 0;
 }
 
@@ -184,12 +186,12 @@ article.post > header > h1 {
 
 article.post > header > small {
   font-family: 'Poppins', sans-serif;
-  color: #2d4059;
+  color: #5C5C5C;
 }
 
 article.post > header > p {
   font-family: 'Poppins', sans-serif;
-  color: #2d4059;
+  color: #5C5C5C;
   margin-bottom: 0.5rem;
 }
 
@@ -197,7 +199,7 @@ article.post > blockquote {
   padding: .5rem 1rem;
   margin-left: 0;
   margin-bottom: 1rem;
-  color: #2d4059;
+  color: #5C5C5C;
   border-left: .15rem solid #ea5455;
 }
 
@@ -308,7 +310,7 @@ article.post > figure {
 article.post > figure > figcaption {
   font-family: 'Poppins', sans-serif;
   font-size: 0.8333rem;
-  color: #2d4059;
+  color: #5C5C5C;
   text-align: center;
 }
 
