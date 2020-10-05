@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>figueredo</title>
-    <link>/</link>
+    <link>https://figueredo.co/</link>
     <description>Recent content on figueredo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 24 May 2019 17:30:21 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 May 2019 17:30:21 +0000</lastBuildDate><atom:link href="https://figueredo.co/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>O início de uma comunidade</title>
-      <link>/posts/o-inicio-de-uma-comunidade/</link>
+      <link>https://figueredo.co/posts/o-inicio-de-uma-comunidade/</link>
       <pubDate>Fri, 24 May 2019 17:30:21 +0000</pubDate>
       
-      <guid>/posts/o-inicio-de-uma-comunidade/</guid>
+      <guid>https://figueredo.co/posts/o-inicio-de-uma-comunidade/</guid>
       <description>Um ano de encontros sobre arquitetura de software</description>
     </item>
     
     <item>
       <title>Memória, para quê?</title>
-      <link>/posts/memoria-para-que/</link>
+      <link>https://figueredo.co/posts/memoria-para-que/</link>
       <pubDate>Tue, 13 Nov 2018 07:15:57 +0000</pubDate>
       
-      <guid>/posts/memoria-para-que/</guid>
+      <guid>https://figueredo.co/posts/memoria-para-que/</guid>
       <description>Você não sabe que dia é hoje, sabe? me perguntou a recepcionista. Era 11 de setembro, o dia em que as ruas do Chile ficam vazias.</description>
     </item>
     

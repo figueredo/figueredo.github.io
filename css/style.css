@@ -1,7 +1,8 @@
 html {
   font-family: 'Source Serif Pro', serif;
-  font-size: 90%;
+  font-size: 100%;
   font-weight: 300;
+  height: 100%;
 }
 
 body {
@@ -9,7 +10,7 @@ body {
   flex-direction: column;
 
   margin: 0;
-  min-height: 100vh;
+  min-height: 100%;
 
   background-color: #e5e5e5;
 }
@@ -108,7 +109,12 @@ aside > nav > ul {
 
 aside > nav > ul > li {
   font-family: 'Poppins', sans-serif;
-  font-size: 0.8333rem;
+  font-size: 1.2rem;
+  font-weight: 600;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  color: #ea5455;
 }
 
 aside > nav > ul > li:last-child {
@@ -195,6 +201,10 @@ article.post > header > h2 {
 article.post > header > small {
   font-family: 'Poppins', sans-serif;
   color: #5C5C5C;
+}
+
+article.post > footer {
+  margin-top: 2rem;
 }
 
 article.post > blockquote {
